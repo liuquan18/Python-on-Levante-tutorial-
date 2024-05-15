@@ -17,9 +17,9 @@ sys.path.insert(0, os.path.abspath('../..'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'python_example'
-copyright = '2022, mypackage developers'
-author = 'Quan'
+project = 'python tutorial'
+copyright = '2024, python tutorial developer'
+author = 'Arim, Moriz, and Quan'
 
 
 # -- General configuration ---------------------------------------------------
