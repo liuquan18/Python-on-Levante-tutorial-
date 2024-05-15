@@ -3,15 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python_example's documentation!
+Welcome to Python on Levante tutorial!
 =====================================
 
 .. toctree::
    :maxdepth: 2
 
-   functions
-   note_example
-   how to make a page like this <How_to_have_this_page_too>
+   1Where_to_python
+   2setup_python_environment_on_levante
+   3an_example_python_project
+   4make_python_fasterrr
+   5tips
+   6ref
 
 
 Indices and tables
